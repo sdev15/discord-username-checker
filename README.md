@@ -2,7 +2,7 @@
 **Descrition:** a a simple user name checker using python 
 # installation
 - you need python
-- run `start.bat`
+- run `run.bat`
 # usage :
 - choose value betwen 4 & 32
   > user name charachter
