@@ -1,5 +1,5 @@
 # discord-username-checker
-**Descrition : ** a a simple user name checker using python 
+**Descrition:** a a simple user name checker using python 
 # installation
 - you need python
 - run `start.bat`
