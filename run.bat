@@ -11,11 +11,14 @@ cls
 
 :: Display "BY M5TL" in fancy bold font for five seconds
 echo. & echo. & echo. & echo. & echo. & echo. & echo.
-echo          BBBBBB  YYY   YYY    M     M    55555  TTTTT  LLLLL
-echo          B     B  Y     Y     MM   MM    5        T       L
-echo          BBBBBB    YYYYY      M M M M    55555    T       L
-echo          B     B    YYY       M  M  M       5    T       L
-echo          BBBBBB      Y        M     M    55555    T     LLLLL
+echo
+echo  _                    ____  _   _ 
+echo | |__  _   _    /\/\ | ___|| |_| |
+echo | '_ \| | | |  /    \|___ \| __| |
+echo | |_) | |_| | / /\/\ \___) | |_| |
+echo |_.__/ \__, | \/    \/____/ \__|_|
+echo        |___/                      
+
 timeout /t 5 >nul
 
 :: Simple loading bar
